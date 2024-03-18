@@ -18,7 +18,7 @@ const eta = parseInt(prompt ("Quanti anni hai?"))
 console.log(eta, typeof eta)
 
 let prezzoBase = km * pricePerKm
-console.log(prezzoBase)
+//console.log(prezzoBase)
 
 let sconto = 0
 
