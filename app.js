@@ -24,7 +24,7 @@ let sconto = 0
 
 if (eta < 18) {
     sconto = 0.2
-} else if (eta > 65) {
+} else if (eta >= 65) {
     sconto = 0.4
 }
 
